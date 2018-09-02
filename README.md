@@ -13,3 +13,5 @@ The file contains pipeline initial parameters.
 Different options can be set to 'true' to follow a certain order of task execution 
 (for example, normalization selection, dataset reduction technique or classifier selection).
 
+Note: The section Speaker Identification described in the report is not related to the current implementation. But the relevant implementation for the same can be found in another repository
+
